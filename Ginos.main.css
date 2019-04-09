@@ -1,0 +1,73 @@
+.header-link {
+
+	display: inline-block;
+	position: absolute;
+	bottom: 5%;
+	left: 50%;
+	background:#c9c1ac;
+	border-radius:10px;
+	transition: color 2s ease-in-out;
+}
+.header-link a:hover {
+	color:#242424;
+
+}
+
+
+
+
+
+.point {
+	font-size: 5rem;
+	border-spacing: 20px;
+}
+
+.Gino{
+	color:tan;
+	font-family: 'Parisienne', cursive;
+	
+}
+
+.info {
+
+background: #c9c1ac;
+
+}
+
+
+
+body{
+	font-family: 'Rosarivo', serif;
+    background: #c9c1ac;
+}
+
+.primary-color{
+
+
+}
+
+.info h2 {
+	word-spacing: 0.6rem;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 99%;
+}
+
+.info a {
+	transition: color 1s ease-in-out;
+}
+
+.info a:hover {
+	color:#242424;
+}
+
+
+
+#header {
+	position: relative;
+	min-height: calc(100vh - 93px);
+	background:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)) , url(../img/ginoback.jpg);
+   
+    background-attachment: fixed;
+
+
+}
